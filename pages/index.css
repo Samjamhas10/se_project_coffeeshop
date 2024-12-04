@@ -1,6 +1,6 @@
 .page {
   font-family: "Inter", Arial, sans-serif;
-  max-width: 1100px;
+  min-width: 1100px;
   font-size: 16px;
   line-height: 20px;
   margin: auto;
