@@ -13,4 +13,13 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+## Specialty Coffee in the Triple Peaks Library
+
+Added animations and new updated code following the brief.
+
+This project is about a coffee shop that has a lot to offer. The technologies I used were headings, lists, and links. 
+
+For a full description of the website, visit the 
+[project page] 
+()
+
