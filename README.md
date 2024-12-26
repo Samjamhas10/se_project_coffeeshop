@@ -13,6 +13,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
+
+
 ## Specialty Coffee in the Triple Peaks Library
 
 Added animations and new updated code following the brief.
@@ -23,3 +25,4 @@ For a full description of the website, visit the
 [project page] 
 ()
 
+Testing 
