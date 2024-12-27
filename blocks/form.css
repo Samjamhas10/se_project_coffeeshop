@@ -41,8 +41,8 @@
   font-size: 16px;
   line-height: 20px;
   background-color: #1878dc;
-  cursor: pointer;
   transition: background-color 0.5s;
+  cursor: pointer;
 }
 
 .form__button:hover {

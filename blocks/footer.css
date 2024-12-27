@@ -40,7 +40,8 @@
   text-decoration: none;
   display: flex;
   align-items: center;
-  transition: ease-in-out 0.5s;
+  transition: opacity 1s;
+  cursor: pointer;
 }
 
 .footer__social-link:hover {
