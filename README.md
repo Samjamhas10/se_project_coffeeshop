@@ -20,7 +20,7 @@ While working on the project, I aim to enhance the menu's background image to ma
 
 This project is centered around a coffee shop landing page that offers a wide range of features. I used HTML and CSS to add interactivity and functionality to the website. The technological elements I implemented include headings, lists, and links.
 
-For a full description of the website, visit the:
+For a full description of the website, visit the link:
 
-[project page]
-(http://127.0.0.1:5500/se_project_coffeeshop/index.html)
+- [project page]
+- https://samjamhas10.github.io/se_project_coffeeshop/
