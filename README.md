@@ -4,12 +4,14 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Table of Contents
 
+- [Project Description](#project-description)
 - [Project Features](#project-features)
 - [Plan on Improving the Project](#plan-on-improving-the-project)
-- [Project Description](#project-description)
 - [Live Demo](#live-demo)
 
-## Specialty Coffee in the Triple Peaks Library
+## Project Description
+
+**Specialty Coffee in the Triple Peaks Library**
 
 This project is a coffee shop landing page designed to showcase a variety of web development techniques. I used HTML and CSS to build the site, implementing key elements such as:
 
