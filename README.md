@@ -33,7 +33,7 @@ This project is a coffee shop landing page designed to showcase a variety of web
 ## Plan on improving the project
 
 - Fix the menu section's inconsistent background using the same background image as the header to create a more cohesive visual design.
-- Enhance the page using additional CSS animations and trasnistions to make the site more dynamic and interactive.
+- Enhance the page using additional CSS animations and transitions to make the site more dynamic and interactive.
 
 ## Screenshots
 
@@ -51,7 +51,7 @@ This project is a coffee shop landing page designed to showcase a variety of web
 
 ## Live Demo
 
-You can access the live version here:  
+You can access the live version here:
 
 [Live Demo](https://samjamhas10.github.io/se_project_coffeeshop/)
 
