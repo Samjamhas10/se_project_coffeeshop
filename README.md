@@ -7,11 +7,10 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - [Project Description](#project-description)
 - [Project Features](#project-features)
 - [Plan on Improving the Project](#plan-on-improving-the-project)
+- [Screenshots](#showing product features)
 - [Live Demo](#live-demo)
 
-## Project Description
-
-**Specialty Coffee in the Triple Peaks Library**
+## Specialty Coffee in the Triple Peaks Library
 
 This project is a coffee shop landing page designed to showcase a variety of web development techniques. I used HTML and CSS to build the site, implementing key elements such as:
 
@@ -29,13 +28,26 @@ This project is a coffee shop landing page designed to showcase a variety of web
 - A custom form
 - CSS animation and transform
 
-
 ## Plan on improving the project
 
-While working on the project, I aim to enhance the menu's background image to match the header's background. Utilizing a cohesive color palette, particularly shades of blue, will improve the overall appearance of the website. Additionally, I plan to incorporate more animations to make the website more interactive.
+- Fix the menu section's inconsistent background using the same background image as the header to create a more cohesive visual design
+- Fix the page using additional CSS animations and trasnistions to make the site more dynamic and interactive
+
+## Screenshots
+
+### Homepage
+
+![Homepage Screenshot](homepage.png)
+
+## Reservation Section
+
+![Reservation Screenshot](reservation-section.png)
+
+## Footer
+
+![Footer Screenshot](footer-section.png)
 
 ## Live Demo
 
-Check out the live version here:
-
-[Project Page](https://samjamhas10.github.io/se_project_coffeeshop/)
+You can access the live version here:  
+[Triple Peaks Coffee Shop – Live Demo](https://samjamhas10.github.io/se_project_coffeeshop/)
