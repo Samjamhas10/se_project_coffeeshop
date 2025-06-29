@@ -7,7 +7,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - [Project Description](#project-description)
 - [Project Features](#project-features)
 - [Plan on Improving the Project](#plan-on-improving-the-project)
-- [Screenshots](#showing product features)
+- [Screenshots](#screenshots)
 - [Live Demo](#live-demo)
 
 ## Specialty Coffee in the Triple Peaks Library
