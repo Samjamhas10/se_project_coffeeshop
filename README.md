@@ -46,3 +46,8 @@ This project is a coffee shop landing page designed to showcase a variety of web
 ## Footer
 
 ![Footer Screenshot](footer-section.png)
+
+## Live Demo
+
+You can access the live version here:  
+[Triple Peaks Coffee Shop – Live Demo](https://samjamhas10.github.io/se_project_coffeeshop/)
