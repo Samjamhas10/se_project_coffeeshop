@@ -1,6 +1,6 @@
 # Specialty Coffee In The Triple Peaks Coffee Shop
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+This is the second project of the Software Engineering program at TripleTen. It was developed using HTML and CSS, based on the design brief.
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ This project is a coffee shop landing page designed to showcase a variety of web
 
 ## Screenshots
 
-### Homepage
+## Homepage
 
 ![Homepage Screenshot](homepage.png)
 
@@ -52,6 +52,7 @@ This project is a coffee shop landing page designed to showcase a variety of web
 ## Live Demo
 
 You can access the live version here:  
+
 [Live Demo](https://samjamhas10.github.io/se_project_coffeeshop/)
 
 ## Deployment Instructions
@@ -66,7 +67,7 @@ To run the project locally:
 
 2. Navigate to project directory:
 
-   cd se_project_spots
+   cd se_project_coffeeshop
 
 3. Open the index.html file in your browser
 
