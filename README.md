@@ -57,7 +57,7 @@ You can access the live version here:
 
 ## Project Demo
 
-![Watch Project Demo]()
+![Watch Project Demo](https://www.loom.com/share/4bc5fe81eb1343b6b66947a7a2080cdf?sid=884b4ed2-5298-4270-8c6e-016356d1c285)
 
 ## Deployment Instructions
 
