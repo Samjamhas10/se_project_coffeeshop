@@ -9,6 +9,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - [Plan on Improving the Project](#plan-on-improving-the-project)
 - [Screenshots](#screenshots)
 - [Live Demo](#live-demo)
+- [Project Demo](#project-demo)
 - [Deployment Instructions](#deployment-instructions)
 - [System Requirements](#system-requirements)
 
@@ -32,8 +33,7 @@ This project is a coffee shop landing page designed to showcase a variety of web
 
 ## Plan on improving the project
 
-- Fix the menu section's inconsistent background using the same background image as the header to create a more cohesive visual design.
-- Enhance the page using additional CSS animations and transitions to make the site more dynamic and interactive.
+- Enhance the project to include full mobile responsiveness and backend integration for real time reservations.
 
 ## Screenshots
 
@@ -54,6 +54,10 @@ This project is a coffee shop landing page designed to showcase a variety of web
 You can access the live version here:
 
 [Live Demo](https://samjamhas10.github.io/se_project_coffeeshop/)
+
+## Project Demo
+
+![Watch Project Demo]()
 
 ## Deployment Instructions
 
