@@ -1,4 +1,4 @@
-# Specialty Coffee In The Triple Peaks Coffee Shop
+# Triple Peaks Coffee Shop Landing Page
 
 This is the second project of the Software Engineering program at TripleTen. It was developed using HTML and CSS, based on the design brief.
 
@@ -33,7 +33,8 @@ This project is a coffee shop landing page designed to showcase a variety of web
 
 ## Plan on improving the project
 
-- Enhance the project to include full mobile responsiveness and backend integration for real time reservations.
+- Fix responsiveness by including mobile design using CSS media queries
+- Enhance the project with backend integration for real time reservations using Node.js and Express.
 
 ## Screenshots
 
