@@ -60,3 +60,34 @@
   font-size: 16px;
   line-height: 20px;
 }
+
+@media screen and (max-width: 1120px) {
+  .footer {
+    padding: 30px 28px;
+  }
+  .footer__content {
+    flex-direction: column;
+    align-content: flex-start;
+    gap: 20px;
+  }
+
+  .footer__column-heading {
+    margin-top: 50px;
+  }
+}
+
+@media screen and (max-width: 610px) {
+  footer {
+    padding: 40px 60px;
+  }
+
+  .footer__column-heading {
+    margin-top: 30px;
+  }
+
+  .footer__copyright {
+    margin: 62px 0 0;
+    font-size: 14px;
+    line-height: 18px;
+  }
+}
