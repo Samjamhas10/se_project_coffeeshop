@@ -21,9 +21,9 @@
   margin: 0 auto;
 }
 
-@media screen and (max-width: 760px) {
+/* @media screen and (max-width: 760px) {
   .reservation {
     padding: 60px 0 80px;
     background-size: contain;
   }
-}
+} */
